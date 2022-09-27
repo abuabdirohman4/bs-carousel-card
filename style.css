@@ -12,6 +12,9 @@ img {
 @media screen and (min-width:576px) {
     .carousel-inner{
         display: flex;
+        margin-left: 1rem;
+        padding-left: 0!important;
+        padding-right: 3rem!important;
     }
     .carousel-item {
         display: block;
